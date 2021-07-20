@@ -1,0 +1,1 @@
+sudo docker container stop FNDetection
